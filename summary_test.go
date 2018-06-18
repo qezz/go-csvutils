@@ -3,7 +3,7 @@ package csvutils
 import (
 	"testing"
 
-	"github.com/qezz/csvutils/csvparseutils"
+	"github.com/qezz/go-csvutils/csvparseutils"
 )
 
 func TestGetSummary(t *testing.T) {

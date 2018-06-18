@@ -6,8 +6,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/qezz/csvutils/csvparseutils"
-	"github.com/qezz/csvutils/errors"
+	"github.com/qezz/go-csvutils/csvparseutils"
+	"github.com/qezz/go-csvutils/errors"
 )
 
 // RawCsv represents the matrix of strings parsed from CSV
